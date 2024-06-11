@@ -1,0 +1,15 @@
+#site-header {
+    justify-content: space-between;
+    display: flex;
+}
+
+.site-title {
+    height: 90px;
+    padding: 15px 50px;
+    
+}
+
+.site-logo {
+    height: 120px;
+    padding: 5px 75px;
+}
