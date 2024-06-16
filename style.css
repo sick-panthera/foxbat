@@ -4,12 +4,42 @@
 }
 
 .site-title {
-    height: 90px;
+    height: 70px;
     padding: 15px 50px;
     
 }
 
 .site-logo {
-    height: 120px;
+    height: 100px;
     padding: 5px 75px;
+}
+
+.about-me {
+    margin: 50px 100px;
+}
+
+.about-me-body {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+    gap: 60px;
+}
+
+.about-me-head {
+    height: 45px;
+}
+
+.headshot {
+    width: 210px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.about-me-text {
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.calendly-inline-widget {
+    background-color: #4d8678;
 }
